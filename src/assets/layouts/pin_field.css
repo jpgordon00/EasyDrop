@@ -1,0 +1,6 @@
+.jfx-text-field, .jfx-password-field {
+    -fx-text-inner-color: #ffffff;
+    -jfx-focus-color: #fcff00;
+    -jfx-unfocus-color: #00ff11;
+    -fx-background-color: #0f7680;
+}

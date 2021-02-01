@@ -1,0 +1,96 @@
+/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/bin/java -Xms256m -Xmx1024m "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=63491:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/jpg2000/Desktop/EasyDrop/JFXBinTest/out/production/FileGenFX:/Users/jpg2000/Desktop/EasyDrop/JFXBinTest/libs/zip4j-2.1.2.jar:/Users/jpg2000/Desktop/EasyDrop/JFXBinTest/libs/jsonbeans-0.7.jar:/Users/jpg2000/Desktop/EasyDrop/JFXBinTest/libs/kryo-5.0.0-RC4.jar:/Users/jpg2000/Desktop/EasyDrop/JFXBinTest/libs/kryonet-2.22.0-RC1.jar:/Users/jpg2000/Desktop/EasyDrop/JFXBinTest/libs/minlog-1.2.jar:/Users/jpg2000/Desktop/EasyDrop/JFXBinTest/libs/objenesis-2.1.jar:/Users/jpg2000/Desktop/EasyDrop/JFXBinTest/libs/reflectasm-1.11.9.jar SplashScreen
+uid=JELPu2LiGsti2CnTlZrnKECGQDukA37RiNiujaGSyF6HvDFL4GvwWT6aojjYtN4d
+ip=100.64.13.130
+port_tcp=5555
+port_udp=5555
+m=9200
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.esotericsoftware.kryo.unsafe.UnsafeUtil (file:/Users/jpg2000/Desktop/EasyDrop/JFXBinTest/libs/kryo-5.0.0-RC4.jar) to constructor java.nio.DirectByteBuffer(long,int,java.lang.Object)
+WARNING: Please consider reporting this to the maintainers of com.esotericsoftware.kryo.unsafe.UnsafeUtil
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+00:00  INFO: Connecting: /100.64.13.130:5555/5555
+00:01  INFO: [kryonet] Connection 2 connected: /100.64.13.130
+handshake complete 1: mGAj5v5u0U5ykOQbNSsQBOLPZ0LhjeJF0BSBnAbEejaZnxuTph8ZJJ5BVB6Mb9aC
+pre
+objc[98932]: Class FIFinderSyncExtensionHost is implemented in both /System/Library/PrivateFrameworks/FinderKit.framework/Versions/A/FinderKit (0x7fff9f5e41d0) and /System/Library/PrivateFrameworks/FileProvider.framework/OverrideBundles/FinderSyncCollaborationFileProviderOverride.bundle/Contents/MacOS/FinderSyncCollaborationFileProviderOverride (0x12b0e0dc8). One of the two will be used. Which one is undefined.
+post
+L: 32
+I: 0
+continued
+changed is finished
+{FileSendPaceket} Finished creating file wit uid MCNFkXUPTZr5CEJ5l9mtaVMR
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [0]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [1]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [2]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [3]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [4]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [5]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [6]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [7]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [8]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [9]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [10]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [11]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [12]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [13]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [14]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [15]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [16]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [17]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [18]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [19]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [20]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [21]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [22]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [23]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [24]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [25]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [26]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [27]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [28]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [29]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [30]
+length from readSplit(): 32
+(MCNFkXUPTZr5CEJ5l9mtaVMR) [31]
+length from readSplit(): 32
+Exception in thread "Thread-5" java.lang.NullPointerException
+	at net.FileSendPacketWrap.removeCompletely(FileSendPacketWrap.java:189)
+	at net.BinClient.received(BinClient.java:411)
+	at com.esotericsoftware.kryonet.Connection.notifyReceived(Connection.java:246)
+	at com.esotericsoftware.kryonet.Client.update(Client.java:295)
+	at com.esotericsoftware.kryonet.Client.run(Client.java:338)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+=Exception in thread "JavaFX Application Thread" java.lang.NullPointerException
+
+Process finished with exit code 0

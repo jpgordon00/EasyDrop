@@ -1,0 +1,13 @@
+/*Raised button*/
+.jfx-button {
+    -jfx-button-type: RAISED;
+    -fx-background-color: #990b00;
+    -fx-text-fill: #ffffff;
+}
+/*Change Ripple Color*/
+.jfx-button .jfx-rippler {
+    -jfx-rippler-fill: #7cff00
+}
+.jfx-button:pressed {
+    -fx-text-fill: #000000;
+}
