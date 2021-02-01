@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+
+<?import javafx.scene.control.Button?>
+<AnchorPane fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="225.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/9.0.4" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="232.0" layoutX="-6.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="411.0" />
+      <Button fx:id="buttonExit" layoutX="14.0" layoutY="7.0" maxHeight="24.0" maxWidth="24.0" />
+      <Button fx:id="buttonRetry" layoutX="363.0" layoutY="7.0" maxHeight="24.0" maxWidth="24.0" />
+   </children>
+</AnchorPane>

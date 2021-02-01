@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+
+<?import javafx.scene.control.Button?>
+<AnchorPane maxHeight="100.0" maxWidth="-Infinity" minHeight="100.0" minWidth="-Infinity" prefHeight="100.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/9.0.4" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Rectangle fill="DODGERBLUE" height="100.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="800.0" />
+      <Button id="buttonSend" layoutX="40.0" layoutY="37.0" text="Send" />
+      <Button id="buttonPending" layoutX="366.0" layoutY="37.0" text="Pending" />
+      <Button id="buttonHistory" layoutX="692.0" layoutY="37.0" text="History" />
+   </children>
+</AnchorPane>
