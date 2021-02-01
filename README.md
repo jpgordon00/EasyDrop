@@ -1,5 +1,9 @@
 # EasyDrop
-Direct encrypted file sharing via client/server and cross-platform GUI 
+Direct encrypted file sharing via client/server and cross-platform GUI
+
+[Client Application Gif](https://i.gyazo.com/346f5f6dda1f1abe48c9c1410de140fa.mp4)
+![Client Application](https://i.gyazo.com/f16f55add65bec9996d8c8df7e84d3f1.png)
+![Server Application](https://i.gyazo.com/7bf29ff31750435c1a853afdabad946e.png)
 
 ## What it does it do and how?
 - Anonmyous file sharing via a client-server architechture
