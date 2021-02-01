@@ -1,10 +1,6 @@
 # EasyDrop
 Direct encrypted file sharing via client/server and cross-platform GUI
 
-[Client Application Gif](https://i.gyazo.com/346f5f6dda1f1abe48c9c1410de140fa.mp4)
-![Client Application](https://i.gyazo.com/f16f55add65bec9996d8c8df7e84d3f1.png)
-![Server Application](https://i.gyazo.com/7bf29ff31750435c1a853afdabad946e.png)
-
 ## What it does it do and how?
 - Anonmyous file sharing via a client-server architechture
 - Each user assigned a random PIN and uses that to find/address other users
@@ -28,3 +24,8 @@ Direct encrypted file sharing via client/server and cross-platform GUI
 - Wrap A JAR file with scripts and build native OSX and Windows applications
 > This was neccesary as JavaFX was no longer bundled in with Java the runtime, forcing you to link the new OpenJFX library as a starting argument.
 - Application architechture plays an integral role in how well an application can scale in a production environment. Because this application is completely monolothic, scaling of this application would be done vertically through larger and larger machines via manual procceeses. A more sophisticated architecture is needed to address elastic scalability, for example, a solution using microservice architechture. Monolithic applications are not feesible in a production environment if elastic scalability is a requirement.
+
+[Client Application Gif](https://i.gyazo.com/346f5f6dda1f1abe48c9c1410de140fa.mp4)
+
+![Client Application](https://i.gyazo.com/f16f55add65bec9996d8c8df7e84d3f1.png)
+![Server Application](https://i.gyazo.com/7bf29ff31750435c1a853afdabad946e.png)
