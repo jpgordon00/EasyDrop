@@ -1,7 +1,7 @@
 # EasyDrop
 Direct encrypted file sharing via client/server and cross-platform GUI
 
-## What it does it do and how?
+## What it does it do?
 - Anonmyous file sharing via a client-server architechture
 - Each user assigned a random PIN and uses that to find/address other users
 - Encryption is 256 AES and handshakes are done through the single server application
