@@ -2,10 +2,10 @@
 Direct encrypted file sharing via client/server and cross-platform GUI
 
 ## What it does it do?
-- Anonmyous file sharing via a client-server architechture
-- Each user assigned a random PIN and uses that to find/address other users
-- Encryption is 256 AES and handshakes are done through the single server application
-- Files are zipped before sending and unzipped upon arrival
+- Anonmyous file sharing via a client-server architechture.
+- Each user is assigned a random PIN and uses that to find other users.
+- The encryption used is 256 AES. Handshakes are done through server and TCP sockets.
+- Files are zipped before sending and unzipped upon arrival.
 
 ## What technologies/frameworks are involved?
 - Java
@@ -17,7 +17,7 @@ Direct encrypted file sharing via client/server and cross-platform GUI
 
 ## What I learned from this project
 - Best practices when searching for libraries/code to tackle a specific problem.
-> At multiple stages in this project, I was constrained by Java and needed additional libraries. It is most important to ensure that a chosen library solves the task which you chose it for, it is just as important to choose a library that will save you development time. By prioritizing ease-of-use and familiarity of the product, for example choosing a native Java library, I saved uncountable hours in development. 
+> At multiple stages in this project, I was constrained by Java and needed additional libraries. It is most important to ensure that a chosen library solves the task which you chose it for, it is just as important to choose a library that will save development time. By prioritizing ease-of-use and familiarity of the product, for example choosing a native Java library, I saved uncountable hours in development. It is also important to research competetive products and ensure a 
 - How to deal with system related errors. I experienced many errors/crashes while deploying this application to OSX and Windows. I found it really important to read the documentation for the libraries and products I used, especially when it comes to best practices for debugging. These practices ended up saving me tens of hours in development time.
 - XML and FXML format and popular editors.
 - How to deal with difficulties such as package and version missmatchmaking
