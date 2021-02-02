@@ -12,7 +12,7 @@ Direct encrypted file sharing via client/server and cross-platform GUI
 - JavaFX/[OpenJFX](https://openjfx.io/) for cross-platform UI development
 - [KryoNet](https://github.com/EsotericSoftware/kryonet) for high-level networking
 - [Kryo](https://github.com/EsotericSoftware/kryo) (Java) for class serialization/deserialization and stream serialization/deserialization
-- [Zip4J](https://github.com/srikanth-lingala/zip4j) (Java) for Zipping and Unzippign in Java
+- [Zip4J](https://github.com/srikanth-lingala/zip4j) (Java) for Zipping and unzipping of sent and received files.
 
 
 ## What I learned from this project
