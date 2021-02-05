@@ -7,7 +7,7 @@ Direct encrypted file sharing via client/server and cross-platform GUI
 - The encryption used is 256 AES. Handshakes are done through server and TCP sockets.
 - Files are zipped before sending and unzipped upon arrival.
 
-## What I learned from this project
+## What I learned from this project.
 - Best practices when searching for libraries or code to tackle a specific problem can save development time.
 > At multiple stages in this project, I was constrained by Java and needed additional libraries. It is most important to ensure that a chosen library solves the task which you chose it for, it is just as important to choose a library that will save development time. By prioritizing ease-of-use and familiarity of the product, for example choosing a native Java library, I saved countless hours in development. It is also important to research competetive products to ensure that the chosen product is the best choice. 
 - Reducing errors can done through carefully following product documentation. I experienced many errors and problems while deploying this application to OSX and Windows. I found it really important to read the documentation for the libraries and products I used, especially when it comes to best practices for debugging. These practices ended up saving me tens of hours in development time. Some "best practices" for OpenJFX applications that I found include:
